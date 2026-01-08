@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Images or temporary files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.ico
+
+# OS files
+.DS_Store
+Thumbs.db
